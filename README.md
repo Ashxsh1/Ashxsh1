@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashxsh1
-- 👀 I’m interested in Web Development and AI 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Web Development
+- 👀 I’m interested in Web Development and AI/ML
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on Web Development / Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/ashish-gidijala/
 
 <!---
