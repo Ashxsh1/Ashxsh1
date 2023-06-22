@@ -12,7 +12,7 @@
 
 - 👯 I’m currently working on a sports website for my college **IIIT Dharwad Sports Website**
 
-- 👨‍💻 All of my projects are available at [https://ashxsh1.github.io/Portfolio-Website/](https://ashxsh1.github.io/Portfolio-Website/)
+- 👨‍💻 All of my projects are available at [https://ashishgidijala.tech/](https://ashishgidijala.tech/)
 
 - 💬 Ask me about **Anything!**
 
